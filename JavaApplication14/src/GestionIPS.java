@@ -19,7 +19,6 @@ public class GestionIPS {
                 System.out.println(linea);
             }
 
-
             // Cerrar el lector
             lector.close();
         } catch (IOException e) {
